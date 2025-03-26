@@ -1,0 +1,16 @@
+# 忽略虚拟环境
+venv/
+
+# 忽略构建文件
+build/
+dist/
+
+# 忽略PyCharm相关文件
+.idea/
+
+# 忽略 Python 字节码文件
+*.pyc
+*.pyo
+
+# 忽略 Windows 系统文件
+Thumbs.db
